@@ -3,7 +3,7 @@ REST Fuel Consumption Management System
 Java 8, Spring Boot, H2 embedded database, Swagger2 used technologies
 
 ## How It Works?
-The application makes anable to you upload your refuel informations wirh price, volume and date as a file or single rest records.  
+The application makes anable to you upload your refuel information with price, volume and date as a file or single rest records.  
 You can take detailed reports with urls given below.  
 ** Fuelling projects supports to show monthly reports for each given year seperately at the same time .
 
